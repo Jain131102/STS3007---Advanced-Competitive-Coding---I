@@ -1,5 +1,7 @@
 import java.util.*;
 
+// https://youtu.be/cWfaw7b3jKY?si=CShByqMPbuN6dxUj - > Practice
+
 public class Booth_Multiplication {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
