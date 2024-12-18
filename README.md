@@ -79,3 +79,54 @@ Follow these steps to run the programs:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Jain131102/STS3007---Advanced-Competitive-Coding---I.git
+   ```
+2. Navigate to the repository:
+   ```bash
+   cd STS3007---Advanced-Competitive-Coding---I
+   ```
+3. Compile and run any Java program:
+ ```bash
+javac ProgramName.java  
+java ProgramName  
+```
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! If you'd like to add solutions, fix bugs, or improve documentation:
+
+1. Fork the repository.
+2. Create a new branch:
+```bash
+git checkout -b feature-branch-name  
+```
+3. Commit your changes:
+```bash
+git commit -m "Add your message here"  
+```
+4. Push to your branch:
+```bash
+git push origin feature-branch-name  
+```
+5.Open a pull request.
+
+---
+## 👤 Author  
+
+- **Jain131102**  
+
+---
+
+## 🛡 License  
+
+This project is licensed under the [**MIT License**](https://opensource.org/licenses/MIT).  
+Feel free to use the code for learning, practicing, and sharing knowledge.  
+
+---
+
+## 🌟 Acknowledgments  
+
+Thanks to all contributors and learners for supporting this project!  
+Happy Coding! 🚀  
+
+
