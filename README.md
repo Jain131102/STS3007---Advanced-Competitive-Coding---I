@@ -29,13 +29,13 @@ Java implementations of various algorithms and problem-solving techniques:
 15. **Majority.java**: Identifies the majority element in an array.  
 16. **Maneuvering.java**: A problem-solving approach involving array manipulations.  
 17. **Max1.java**: Finds the maximum consecutive 1s in a binary array.  
-18. **MaxE.java**: Finds the maximum element in a rotated sorted array.  
+18. **MaxE.java**: Finds the maximum equilibrium sum in an array.  
 19. **MaxP.java**: Finds the maximum product subarray.  
 20. **MazeSolver.java**: Solves a maze using backtracking.  
 21. **MoveHyphens.java**: Moves all hyphens to the end of a string.  
 22. **NQueens.java**: Backtracking solution for the N-Queens problem.  
-23. **Palindrome1.java**: Checks if a number or string is a palindrome.  
-24. **Permutations.java**: Generates all permutations of a given array.  
+23. **Palindrome1.java**: Finds lexicographically first palindromic string.  
+24. **Permutations.java**: Generates all sorted & unique permutations of a given array .  
 25. **QuickSort.java**: Implements the quicksort algorithm.  
 26. **Segmented_Sieve.java**: Finds primes in a given range using the segmented sieve method.  
 27. **SelectionSort.java**: Implements the selection sort algorithm.  
