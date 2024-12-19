@@ -89,10 +89,10 @@ Follow these steps to run the programs:
    cd STS3007---Advanced-Competitive-Coding---I
    ```
 3. Compile and run any Java program:
- ```bash
-javac ProgramName.java  
-java ProgramName  
-```
+   ```bash
+    javac ProgramName.java  
+    java ProgramName  
+   ```
 
 ---
 
