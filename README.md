@@ -116,7 +116,7 @@ git push origin feature-branch-name
 
 ---
 ## 🌟 Acknowledgments  
-#### Thanks to all contributors and learners for supporting this project!  Happy Coding! 🚀 
+Thanks to all contributors and learners for supporting this project!  Happy Coding! 🚀  
 ---
 
 ## 🛡 License
