@@ -111,22 +111,15 @@ git push origin feature-branch-name
 5.Open a pull request.
 
 ---
-## 👤 Author  
-
-- **Jain131102**  
-
----
-
-## 🛡 License  
-
-This project is licensed under the [**MIT License**](https://opensource.org/licenses/MIT).  
-Feel free to use the code for learning, practicing, and sharing knowledge.  
-
----
-
 ## 🌟 Acknowledgments  
 
 Thanks to all contributors and learners for supporting this project!  
-Happy Coding! 🚀  
+Happy Coding! 🚀 
+---
+
+## 🛡 License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+ 
 
 
