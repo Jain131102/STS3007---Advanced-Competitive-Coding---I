@@ -47,11 +47,15 @@ Java implementations of various algorithms and problem-solving techniques:
 
 ---
 
-### 📑 **PDF Resources**  
+### 📑 **Study Materials**  
 - **MCQs (STS3007 - Advanced Competitive Coding - I).pdf**: Multiple-choice questions for self-assessment.  
 - **MCQs PPT (STS3007 - Advanced Competitive Coding - I).pdf**: Presentation slides for MCQs.  
 - **Theory 1 (STS3007 - Advanced Competitive Coding - I).pdf**: Detailed theory notes on various algorithms and techniques.  
-- **Theory 2 (STS3007 - Advanced Competitive Coding - I).pdf**: Additional notes covering advanced topics.  
+- **Theory 2 (STS3007 - Advanced Competitive Coding - I).pdf**: Additional notes covering advanced topics.
+- **YouTube Lectures**
+  - [STS3007 - Advanced Competitive Coding - I | Part 1 | MCQs](https://youtu.be/YaCXflgX_2M?si=_Y3uD4Nebc5wgjoR)
+  - [STS3007 - Advanced Competitive Coding - I | Part 1 | Codes](https://youtu.be/dw1gGAKb5Ac?si=4ltnQqUpMhmZdbWv)
+  
 
 ---
 
